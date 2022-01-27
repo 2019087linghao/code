@@ -1,0 +1,8 @@
+bgm:夏影.mp3;
+changeBG_next:testBG03.png;
+changeP_left_next:testFigure03.png;
+成焊接老师:Boys and girls,class begins;
+Today we are going to learn Unit-2 oneA to oneC;
+全体同学:Good morning，Mr.Cheng;
+我有一个好消息，一个坏消息，你要先听哪个？;
+choose:{好消息:c好消息.txt,坏消息:c坏消息};
